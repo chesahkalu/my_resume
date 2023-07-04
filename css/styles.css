@@ -10940,7 +10940,14 @@ p.lead {
 }
 
 .dev-icons {
-  font-size: 3rem;
+  font-size: 2rem;
+}
+
+.dev-name {
+  display: inline;
+  font-size: 1rem;
+  font-weight: 500;
+  margin-left: 10px;
 }
 
 section.resume-section {
