@@ -1,6 +1,11 @@
 # my_resume 
 
-This repo contains my resume built using HTML, a lot of CSS, and a little bit of JavaScript.
+Welcome to my digital resume! This repository showcases my professional journey, skills, and experiences through a well-designed web page.
+
+Crafted with ❤️ using HTML, CSS, and a touch of JavaScript.
+
+You can access and interact with my resume online [here](https://chesahkalu.github.io/my_resume/), hosted on GitHub Pages.
+
 
 ## How to run
 
